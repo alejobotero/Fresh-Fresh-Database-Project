@@ -1,0 +1,11 @@
+Produce_ID,First_Name,Last_Name,Email,Freshness_Indicator,Source_Location,Seasonal_Availability,Organic_Certification_Status,Category,Product,Supplier_ID,Delivery_Option,Sustainability_Practices,Transaction_Amount,Transaction_Date,Subscription_Plan,GeolocationLatitude ,GeolocationLongitude,Quality_Rating
+1,Emily,Smith,emily.smith@example.com,1,"California, USA",1,1,Vegetables,Brocolli,101,Local delivery only,Recycling program,2.99,01/05/2024,0,36.778259,-118.2437,9
+2,David,Johnson,david.johnson@example.com,0,"Florida, USA",0,0,Fruits,Pear,102,Nationwide shipping,Water saving,1.2,03/18/2024,1,27.994402,-77.0369,7.5
+3,Sarah,Brown,sarah.brown@example.com,1,"Texas, USA",1,1,Herbs,Basil,103,Pick-up,Organic farming,0.99,05/09/2024,1,31.968599,151.2093,8.7
+4,Michael,Davis,michael.davis@example.com,0,"Washington, USA",0,0,Grains,Rice,104,Local delivery ,Energy conservation,3.5,07/22/2024,0,47.751076,139.6917,8.2
+5,Jessica,Wilson, jessica.wilson@example.com,1,"Oregon, USA",1,1,Vegetables,Carrots,105,Nationwide shipping,Reduced packaging,2.45,09/03/2024,1,43.804133,-0.1276,6.8
+6,Christopher,Martinez,christopher.martinez@example.com,1,"Nevada, USA",1,0,Fruits,Apples,101,Pick-up ,Solar panels,1.55,10/15/2024,0,38.80261,2.3522,9.2
+7,Jennifer,Thompson,jennifer.thompson@example.com,1,"Utah, USA",1,1,Herbs,Parsley,102,Local delivery ,Compostable materials,0.75,12/08/2024,1,39.32098,-73.9352,8
+8,Daniel,Anderson,daniel.anderson@example.com,0,"Idaho, USA",0,0,Grains,Corn,103,Nationwide shipping,Biodegradable materials,4.2,02/14/2024,1,44.068202,77.1025,7
+9,Amanda,Taylor,amanda.taylor@example.com,1,"Colorado, USA",1,1,Vegetables,Brussel Sprouts,104,Pick-up,Natural pesticides,2.8,04/27/2024,0,39.550051,-75.1652,8.6
+10,Matthew,Rodriguez,matthew.rodriguez@example.com,0,"Arizona, USA",1,0,Fruits,Bananas,105,Local delivery,Water reuse systems,1.75,06/30/2024,1,34.048928,144.9631,7.3
