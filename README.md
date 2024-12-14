@@ -1,4 +1,4 @@
-# Farmers Market Database Project
+# FreshFresh Database Project
 
 This project involves designing and developing a comprehensive database system for managing farmers market data, including conceptual design, normalization, and implementation in SQL. The system supports efficient data retrieval, manipulation, and integrity maintenance.
 
