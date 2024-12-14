@@ -15,7 +15,7 @@ This project involves designing and developing a comprehensive database system f
 - **`excel/`**: Example Excel file for data analysis.
 
 ## ER Diagram
-![ER Diagram](diagrams/er_diagram.png)
+![image](https://github.com/user-attachments/assets/e95189c6-ce9f-488e-b01d-ceebfee4c268)
 
 ## Example Queries
 - **Retrieve All Produce by Category**:
